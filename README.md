@@ -20,3 +20,9 @@ The statistics of the occurrences of various concealed objects in the dataset.
 Sample display for each category. The bottom row shows a zoomed-in view of the object.
 
 <img src=sample.svg width ='1000'>
+
+# Download links
+
+The dataste are not readily available because the data are part of an ongoing study. It will be made public in this GitHub repo as soon as possible.
+
+# Declare
