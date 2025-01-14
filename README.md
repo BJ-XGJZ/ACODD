@@ -1,7 +1,7 @@
 # Active millimeter-wave concealed object detection dataset
 # Introduction
 
-Active millimeter-wave (AMMW) imaging technology is a promising approach for detecting concealed objects carried by individuals for security screening applications. To facilitate advancements in the object detection of the AMMW images, we build a large-scale public open dataset, namely ACODD, comprising 20,004 image samples of human bodies with eight different categories of concealed objects. All images and data will be released publicly in this GitHub repo.
+Active millimeter-wave (AMMW) imaging technology is a promising approach for detecting concealed objects carried by individuals for security screening applications. To facilitate advancements in the object detection of the AMMW images, we build a large-scale public open dataset, namely ACODD, comprising 20,004 image samples of human bodies with eight different categories of concealed objects. The data is available for free to researchers for non-commercial use. All images and data will be released publicly in this GitHub repo.
 
 
 # Overview
