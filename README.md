@@ -13,14 +13,18 @@ The statistics of the occurrences of various concealed objects in the dataset.
 |---|---|---|---|---|---|---|---|---|---|
 | Total | 2842 | 2202 | 2580 | 2774 | 2350 | 2462 | 2320 | 2474 | 20004 |  
 
-Sample display for each category. The bottom row shows a zoomed-in view of the object.
-
 <img src=sample.svg width ='1000'>
+
+Sample display for each category. The bottom row shows a zoomed-in view of the object.
 
 # Download links
 
-The dataset is not readily available because the data are part of an ongoing study. It will be made public in this GitHub repo as soon as possible.
+The dataset is not currently available because the data is part of an ongoing study. It will be made public in this GitHub repo as soon as possible.
 
 # Privacy
 
 Informed consent was obtained from all participants prior to data collection.
+
+# License
+
+Active millimeter-wave concealed object detection dataset (ACODD) by XGJZ is licensed under CC BY-NC-SA 4.0
