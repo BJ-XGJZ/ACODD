@@ -25,4 +25,6 @@ Sample display for each category. The bottom row shows a zoomed-in view of the o
 
 The dataste are not readily available because the data are part of an ongoing study. It will be made public in this GitHub repo as soon as possible.
 
-# Declare
+# Privacy
+
+Informed consent was obtained from all participants prior to data collection.
